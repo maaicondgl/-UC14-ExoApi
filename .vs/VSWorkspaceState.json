@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChapterFS.WebApi",
+    "\\ChapterFS.WebApi\\bin\\Debug",
+    "\\ChapterFS.WebApi\\bin\\Release",
+    "\\ChapterFS.WebApi\\bin\\Release\\net6.0",
+    "\\ChapterFS.WebApi\\Controllers",
+    "\\ChapterFS.WebApi\\Repositories"
+  ],
+  "SelectedNode": "\\Chapter.WebApi.sln",
+  "PreviewInSolutionExplorer": false
+}
